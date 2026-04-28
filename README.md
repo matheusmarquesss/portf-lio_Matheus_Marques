@@ -27,18 +27,23 @@ Busco constantemente evoluir minhas habilidades técnicas através de projetos p
 
 ### 🛠 Minhas Ferramentas Favoritas
 
+
 #### 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
- 
+
 #### 🤖 Inteligência Artificial & Ferramentas
 ![GPT](https://img.shields.io/badge/GPT-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-5A67D8?style=for-the-badge)
 ![Manus](https://img.shields.io/badge/Manus-FF6F00?style=for-the-badge)
 ![IA Generativa](https://img.shields.io/badge/IA%20Generativa-8A2BE2?style=for-the-badge)
- 
+
+#### 🌐 Redes & Segurança
+![VPN](https://img.shields.io/badge/VPN-004080?style=for-the-badge)
+![Redes](https://img.shields.io/badge/Redes-0A66C2?style=for-the-badge)
+
 #### 🎨 Design & No-Code
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Bubble](https://img.shields.io/badge/bubble-000000?style=for-the-badge)
