@@ -61,8 +61,7 @@ Busco constantemente evoluir minhas habilidades técnicas através de projetos p
 | **Engenharia Reversa**            | Análise de funcionamento de sistemas de IA através de testes e desconstrução de respostas. | https://github.com/matheusmarquesss/portf-lio_Matheus_Marques/tree/c98ce225892a83aa08fdc38a5a17f0b6044ea5bf/Engenharia%20Reversa
 | **MVP com IA**                    | Criação de um produto mínimo viável utilizando IA para resolver um problema real.          |          https://github.com/matheusmarquesss/portf-lio_Matheus_Marques/tree/0eeee13016b5f24df6b488e8efaecbf4fdb39ab0/Do%20Clone%20ao%20Produto%20M%C3%ADnimo%20Vi%C3%A1vel%20(MVP%2B)     |
 | **Engenharia de Software com IA** | Desenvolvimento de aplicação com IA utilizando a plataforma Bubble.io.                     |        https://github.com/matheusmarquesss/portf-lio_Matheus_Marques/tree/a08ad02b4d3b5516ce827f8b8eb54be7b38507e7/Engenharia%20de%20Software%20e%20IA%20com%20Bubble.io      |
-
-
+**Projeto Suno**                  | Criação de músicas com inteligência artificial utilizando a plataforma Suno, explorando geração automática de áudio e criatividade assistida por IA. | https://github.com/matheusmarquesss/portf-lio_Matheus_Marques |
 
 ### 🏗 Estrutura do Repositório
 
