@@ -47,7 +47,7 @@ Busco constantemente evoluir minhas habilidades técnicas através de projetos p
 
 | Projeto                                 | Descrição                                                                                  |                    Link                    |
 | :-------------------------------------- | :----------------------------------------------------------------------------------------- | :----------------------------------------: |
-| **Corrida do Prompt**             | Experimentos com criação e otimização de prompts para melhorar respostas de IA.            |   [Ver Projeto](./sm1-corrida-do-prompt/)  |
+| **Corrida do Prompt**             | Experimentos com criação e otimização de prompts para melhorar respostas de IA.            |   https://github.com/matheusmarquesss/portf-lio_Matheus_Marques/tree/30d0651d4c9e1dcf77e934fb980f713bb8e601b9/A%20Corrida%20do%20Prompt
 | **Classificação Visual**          | Desenvolvimento de modelo para classificação de imagens utilizando técnicas de IA.         | [Ver Projeto](./sm2-classificacao-visual/) |
 | **Batalha de Modelos**            | Comparação entre diferentes modelos de IA e técnicas de engenharia de prompt (XML).        |    [Ver Projeto](./sm3-batalha-modelos/)   |
 | **Engenharia Reversa**            | Análise de funcionamento de sistemas de IA através de testes e desconstrução de respostas. |  [Ver Projeto](./sm4-engenharia-reversa/)  |
