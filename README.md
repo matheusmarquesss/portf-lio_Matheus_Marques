@@ -52,7 +52,7 @@ Busco constantemente evoluir minhas habilidades técnicas através de projetos p
 | **Batalha de Modelos**            | Comparação entre diferentes modelos de IA e técnicas de engenharia de prompt (XML).        |    https://github.com/matheusmarquesss/portf-lio_Matheus_Marques/tree/912bee6015a14c65464dbb8e5d69a17820650c25/Batalha%20de%20Modelos%20%26%20Engenharia%20de%20Prompt%20(XML)
 | **Engenharia Reversa**            | Análise de funcionamento de sistemas de IA através de testes e desconstrução de respostas. | https://github.com/matheusmarquesss/portf-lio_Matheus_Marques/tree/c98ce225892a83aa08fdc38a5a17f0b6044ea5bf/Engenharia%20Reversa
 | **MVP com IA**                    | Criação de um produto mínimo viável utilizando IA para resolver um problema real.          |          [Ver Projeto](./sm5-mvp/)         |
-| **Engenharia de Software com IA** | Desenvolvimento de aplicação com IA utilizando a plataforma Bubble.io.                     |        [Ver Projeto](./sm7-bubble/)        |
+| **Engenharia de Software com IA** | Desenvolvimento de aplicação com IA utilizando a plataforma Bubble.io.                     |        https://github.com/matheusmarquesss/portf-lio_Matheus_Marques/tree/a08ad02b4d3b5516ce827f8b8eb54be7b38507e7/Engenharia%20de%20Software%20e%20IA%20com%20Bubble.io      |
 
 
 
