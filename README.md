@@ -5,9 +5,12 @@
 ---
 
 ### 📫 Contato & Redes Sociais
-Linkedin:http://linkedin.com/in/matheusdsmarques
-Email:matheusmarques100@icloud.com
-Curriculo https://drive.google.com/file/d/1gLr91N1xzoCvKADbNHARVKtrCn61OKkC/view?usp=sharing
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/matheusdsmarques)
+
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmarques100@icloud.com)
+
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1gLr91N1xzoCvKADbNHARVKtrCn61OKkC/view?usp=sharing)
 ---
 
 ### 👨‍💻 Sobre
