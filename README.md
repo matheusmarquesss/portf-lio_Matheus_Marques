@@ -15,7 +15,9 @@
 
 ### 👨‍💻 Sobre
 
-Atualmente cursando o 2º semestre de Análise e Desenvolvimento de Sistemas, tenho grande interesse em tecnologia e estou direcionando meus estudos para a área de **Cibersegurança**, com foco em proteção de sistemas, análise de vulnerabilidades e boas práticas de segurança.
+Atualmente cursando o 2º semestre de Análise e Desenvolvimento de Sistemas, tenho grande interesse em tecnologia e estou direcionando meus estudos para a área de Cibersegurança, com foco em proteção de sistemas, análise de vulnerabilidades e boas práticas de segurança. Tenho buscado desenvolver uma base sólida em programação, redes e segurança da informação, explorando ferramentas e conceitos essenciais para compreender como identificar, prevenir e mitigar ameaças digitais.
+
+Busco constantemente evoluir minhas habilidades técnicas através de projetos práticos, cursos complementares e estudos contínuos, sempre procurando aprender novas tecnologias e acompanhar as tendências do setor. Sou uma pessoa dedicada, curiosa e motivada por desafios, com interesse em adquirir experiência prática na área de tecnologia e contribuir para o desenvolvimento de soluções seguras e eficientes.
 
 Busco constantemente evoluir minhas habilidades técnicas através de projetos práticos e cursos complementares.
 
