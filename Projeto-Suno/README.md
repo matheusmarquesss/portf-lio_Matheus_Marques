@@ -44,13 +44,6 @@ O principal objetivo foi criar um **EP com 5 faixas inéditas**, onde as letras 
 
 ---
 
-## 📄 Processo de Criação
-
-### 1️⃣ Curadoria Musical
-Seleção de referências musicais e análise de estruturas líricas utilizadas no gênero sertanejo e piseiro.
-
-### 2️⃣ Prompt Engineering
-Configuração dos prompts no Gemini Gems para reproduzir estilos de escrita, vocabulário, métrica e emoções presentes nas músicas de referência.
 
 ### 3️⃣ Produção Musical
 As letras geradas foram convertidas em músicas completas utilizando o Suno AI, ajustando parâmetros como:
