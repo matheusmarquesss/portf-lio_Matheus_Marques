@@ -1,8 +1,0 @@
-
-O que acontece com o engenheiro júnior nesse novo mundo?-  Quando praticado a engenharia reversa, você faz algo que nenhuma IA faz por você mesmo, pensa "por que este botão está aqui?", "por que esse elemento foi escolhido?", "como essa parte se comunica?",  e o maior risco para o engenheiro júnior não é o de ser substituido pela IA, é não saber de desenvolver essas perguntas, não ter um pensamento critico, e sempre ter tudo pronto na mão.
-
-Competências fundamentais para o engenheiro júnior na era da Inteligência Artificial, duas habilidades são extremamente importantes: saber avaliar criticamente o que a IA produz , questionando se o código é lógico, se pode ser expandido e se contém erros, e saber definir problemas de forma clara 
-
-2. A  IA não alterou a forma como aprender copiando as coisas, mas mudou a velocidade com que isso acontece., antigamente para replicar algo era necessário um tempo maior, hoje em dia  em apenas trinta segundos, é possível criar um resultado que seja funcionalmente idêntico ao original, sem que haja nenhuma contribuição criativa por parte de quem o está fazendo.
-
-O limite é ultrapassado quando o objetivo principal é apenas entregar o resultado final, e não entende realmente o que está sendo feito.
