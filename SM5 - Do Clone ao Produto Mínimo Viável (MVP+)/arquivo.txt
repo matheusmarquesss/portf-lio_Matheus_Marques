@@ -1,0 +1,20 @@
+https://github.com/matheusmarquesss/QR-CODE-COM-MELHORIAS-EFETIVAS/tree/main
+
+QR INTELIGENTE — Gerador de QR Code Profissional
+
+
+
+Questão A: A Formação do Desenvolvedor na Era da IA
+
+Hoje, com ferramentas de IA ajudando a escrever código, a gente não precisa mais decorar tanto a sintaxe, o que fica importante é entender como o sistema funciona, ou seja, a lógica por trás do código. Por isso, duas competências são essenciais:
+
+Raciocínio lógico e arquitetura de software – saber identificar padrões, entender como os dados fluem e como o sistema está organizado. Isso ajuda a usar a IA de forma inteligente e corrigir ou melhorar o que ela gera.
+Comunicação técnica – a gente precisa saber explicar pro sistema ou pra equipe o que queremos de forma clara. Saber escrever prompts corretos para a IA e documentar nossas decisões evita problemas e garante que o trabalho seja eficiente.
+Então, mesmo com a IA, quem sabe pensar e se comunicar bem vai continuar sendo relevante.
+
+
+
+Questão B: Originalidade vs. Plágio Digital
+
+Aprendizado x plágio: A IA ajuda a aprender e criar protótipos quando usamos pra entender como algo funciona ou nos inspirar, mas vira plágio digital quando a gente copia o código ou design de outra pessoa inteiro, sem mudar nada, e apresenta como se fosse nosso.
+Solução ética: Uma forma de fazer certo é sempre registrar quando usamos IA, documentando de onde veio a ideia ou o código, antes de lançar, dá pra conferir se o que fizemos é parecido demais com algo já existente, e a parte criativa deve sempre ser nossa, a IA só ajuda a sugerir ideias, assim, protegemos a inovação sem deixar de usar a tecnologia.
